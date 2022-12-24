@@ -1,0 +1,19 @@
+/*main items*/
+
+* {
+    background: linear-gradient(-90deg, pink, grey);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+
+li {
+    display: grid;
+    grid-template-rows: auto;
+    list-style-type: none;
+    text-decoration: none;
+}
+nav ul li a {
+    
+    text-decoration: none;
+}
